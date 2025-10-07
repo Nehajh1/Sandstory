@@ -1172,8 +1172,8 @@
 }
 
 .social-icons img {
-  width: 24px;
-  height: 24px;
+  width: 13.87px;
+  height: 13.87px;
   cursor: pointer;
   transition: transform 0.2s;
   color: #1a093f;
@@ -1186,7 +1186,7 @@
 .social-icons p {
   margin: 0;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 16px;
   font-family: 'Manrope';
   line-height: 180%;
   color: #1a093f;
