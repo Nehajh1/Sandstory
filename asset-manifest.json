@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Sandstory/static/css/main.785f2da0.css",
-    "main.js": "/Sandstory/static/js/main.8ce3525f.js",
-    "static/js/453.8ec595f2.chunk.js": "/Sandstory/static/js/453.8ec595f2.chunk.js",
+    "main.css": "/Sandstory/static/css/main.9e5edbca.css",
+    "main.js": "/Sandstory/static/js/main.47ed5e1d.js",
     "static/media/Bluebackground.png": "/Sandstory/static/media/Bluebackground.4f2666c358bc96eed81a.png",
     "static/media/Group.png": "/Sandstory/static/media/Group.2a0722828c90e084c6a5.png",
     "static/media/Image3.png": "/Sandstory/static/media/Image3.1a6fa865de482accb317.png",
@@ -10,12 +9,11 @@
     "static/media/Image1.png": "/Sandstory/static/media/Image1.556d9cfc55f18f2f80ab.png",
     "static/media/Image2.png": "/Sandstory/static/media/Image2.ce90b9aada78bc8bec0a.png",
     "index.html": "/Sandstory/index.html",
-    "main.785f2da0.css.map": "/Sandstory/static/css/main.785f2da0.css.map",
-    "main.8ce3525f.js.map": "/Sandstory/static/js/main.8ce3525f.js.map",
-    "453.8ec595f2.chunk.js.map": "/Sandstory/static/js/453.8ec595f2.chunk.js.map"
+    "main.9e5edbca.css.map": "/Sandstory/static/css/main.9e5edbca.css.map",
+    "main.47ed5e1d.js.map": "/Sandstory/static/js/main.47ed5e1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.785f2da0.css",
-    "static/js/main.8ce3525f.js"
+    "static/css/main.9e5edbca.css",
+    "static/js/main.47ed5e1d.js"
   ]
 }
